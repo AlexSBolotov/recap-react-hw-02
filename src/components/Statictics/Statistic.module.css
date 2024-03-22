@@ -1,0 +1,14 @@
+.Statistic_wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+  text-align: center;
+}
+.Statistic_header {
+  background-color: #f0f0f0;
+}
+.Statistic_item {
+  padding: 0;
+  margin: 0;
+  text-transform: capitalize;
+}
