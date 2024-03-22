@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recap-react-hw-02/static/css/main.1777cf1c.css",
+    "main.js": "/recap-react-hw-02/static/js/main.5a6c6be2.js",
+    "static/js/453.733d9301.chunk.js": "/recap-react-hw-02/static/js/453.733d9301.chunk.js",
+    "index.html": "/recap-react-hw-02/index.html",
+    "main.1777cf1c.css.map": "/recap-react-hw-02/static/css/main.1777cf1c.css.map",
+    "main.5a6c6be2.js.map": "/recap-react-hw-02/static/js/main.5a6c6be2.js.map",
+    "453.733d9301.chunk.js.map": "/recap-react-hw-02/static/js/453.733d9301.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1777cf1c.css",
+    "static/js/main.5a6c6be2.js"
+  ]
+}
